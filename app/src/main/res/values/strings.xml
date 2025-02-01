@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AmistApp</string>
+    <string name="default_web_client_id" translatable="false">768095741621-ln6j4r3b1u917jb5vndrh8bjnikqst01.apps.googleusercontent.com</string>
 </resources>
